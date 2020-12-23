@@ -5,8 +5,8 @@
 }
 
 body{
-    background-image: url(IMG/xps-1gLdTsX3_70-unsplash.jpg);
-    background-size: auto 1024px;
+    background-image: url(IMG/background.jpg);
+    background-size: auto 1024px; */
 } 
 
 .main{
@@ -86,3 +86,18 @@ input{
     height: 40px;
     margin-left: -30px;
 }
+
+.button:hover{
+    background: blue;
+}
+
+.usuario:hover{
+    color: white;
+    border: 1px solid skyblue;
+}
+
+.contra:hover{
+    color: white;
+    border: 1px solid skyblue;
+}
+
